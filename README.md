@@ -15,6 +15,6 @@ Luo jobs.json -tiedostosta lokaalin REST-rajapinnan porttiin 3001.
 
 ### `npm start`
 
-Buildaa sovelluksen (defaulttina porttiin 3000). (Tarvitset kaksi terminaalia auki)
+Rootissa suoritettuna käynnistää React-sovelluksen (defaulttina porttiin 3000). (Tarvitset kaksi terminaalia auki)
 
 ## Voilà!
